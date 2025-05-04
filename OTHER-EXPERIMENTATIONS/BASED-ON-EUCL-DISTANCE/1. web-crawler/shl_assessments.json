@@ -1,0 +1,115 @@
+[
+    {
+        "name": "Global Skills Development Report",
+        "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+        "remote_testing": true,
+        "adaptive_testing": false,
+        "test_types": [
+            "A",
+            "E",
+            "B",
+            "C",
+            "D",
+            "P"
+        ]
+    },
+    {
+        "name": ".NET Framework 4.5",
+        "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+        "remote_testing": true,
+        "adaptive_testing": true,
+        "test_types": [
+            "K"
+        ]
+    },
+    {
+        "name": ".NET MVC (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
+        "remote_testing": true,
+        "adaptive_testing": false,
+        "test_types": [
+            "K"
+        ]
+    },
+    {
+        "name": ".NET MVVM (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
+        "remote_testing": true,
+        "adaptive_testing": false,
+        "test_types": [
+            "K"
+        ]
+    },
+    {
+        "name": ".NET WCF (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
+        "remote_testing": true,
+        "adaptive_testing": false,
+        "test_types": [
+            "K"
+        ]
+    },
+    {
+        "name": ".NET WPF (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
+        "remote_testing": true,
+        "adaptive_testing": false,
+        "test_types": [
+            "K"
+        ]
+    },
+    {
+        "name": ".NET XAML (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
+        "remote_testing": true,
+        "adaptive_testing": false,
+        "test_types": [
+            "K"
+        ]
+    },
+    {
+        "name": "Accounts Payable (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+        "remote_testing": true,
+        "adaptive_testing": false,
+        "test_types": [
+            "K"
+        ]
+    },
+    {
+        "name": "Accounts Payable Simulation (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+        "remote_testing": true,
+        "adaptive_testing": false,
+        "test_types": [
+            "S"
+        ]
+    },
+    {
+        "name": "Accounts Receivable (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+        "remote_testing": true,
+        "adaptive_testing": false,
+        "test_types": [
+            "K"
+        ]
+    },
+    {
+        "name": "Accounts Receivable Simulation (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+        "remote_testing": true,
+        "adaptive_testing": false,
+        "test_types": [
+            "S"
+        ]
+    },
+    {
+        "name": "ADO.NET (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
+        "remote_testing": true,
+        "adaptive_testing": false,
+        "test_types": [
+            "K"
+        ]
+    }
+]
