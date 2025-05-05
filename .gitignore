@@ -1,3 +1,5 @@
 local-env/
 1. web-crawler/__pycache__
 4. BACKEND-API/__pycache__
+3. Evaluation/.env
+3. Evaluation/openai_eval.ipynb

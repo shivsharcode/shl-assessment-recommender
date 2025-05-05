@@ -9,7 +9,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from sklearn.preprocessing import normalize
 
 # Load model, index, metadata
-model = SentenceTransformer('all-mpnet-base-v2') # Mean Recall@10: 0.098 , Mean MAP@10: 0.093
+model = SentenceTransformer('all-mpnet-base-v2') # Mean Recall@3: 0.098 , Mean MAP@3: 0.222
 
 index = faiss.read_index("shl_index.faiss")
 

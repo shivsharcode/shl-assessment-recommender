@@ -23,7 +23,7 @@ for a in assessments:
     )
     
 # Load sentence transformer model
-model = SentenceTransformer("all-mpnet-base-v2") # Mean Recall@10: 0.098 , Mean MAP@10: 0.093 
+model = SentenceTransformer("all-mpnet-base-v2") # Mean Recall@3: 0.098 , Mean MAP@3: 0.222 
 
 # Generate vectorized embeddings of the individual assessments data
 embedding = model.encode(texts, show_progress_bar=True)
