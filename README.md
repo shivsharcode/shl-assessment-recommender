@@ -130,7 +130,7 @@ The project is organized into the following directories:
 ```json
 POST /recommend
 {
-  "query": "Python programming"
+  "query": "I am hiring for Java developers who can also collaborate effectively with my business teams. Looking for an assessment(s) that can be completed in 40 minutes"
 }
 ```
 #### Example Response
